@@ -11,7 +11,7 @@ variables:
   azureServiceConnectionId: 'b573f551-ea11-4160-bdfb-4ad93d4e9473'
 
   # Web app name
-  #webAppName: 'udacityaaron2'
+  webAppName: 'udacityaaron2'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
