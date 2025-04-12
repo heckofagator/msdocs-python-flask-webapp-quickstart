@@ -11,7 +11,7 @@ variables:
   azureServiceConnectionId: 'heckofagator'
 
   # Web app name
-  webAppName: 'udacityaaron2'
+  #webAppName: 'udacityaaron2'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
